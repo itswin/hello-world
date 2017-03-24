@@ -19,6 +19,7 @@ def scale(value, scaler):
 from bebop import Bebop
 from commands import *
 import pygame
+
 import cv2
 
 cnt = 0
